@@ -117,6 +117,7 @@ void Venda::imprimeEstoque() const {
                 << celular._valor_unitario;
 
       std::cout << std::fixed << std::setprecision(0);
+      
 
       std::cout << std::endl;
     }
